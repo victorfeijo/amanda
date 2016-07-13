@@ -169,15 +169,20 @@ section {
 }
 .navbar-default .navbar-brand {
 	background-image: url(../img/logo.png);
+	background-size: 4.5em 2em;
+	background-repeat: no-repeat;
 }
 .navbar-shrink .navbar-brand {
 	background-image: url(../img/logo.png);
+	background-size: 4.5em 2em;
 }
 .navbar-transparent .navbar-brand {
 	background-image: url(../img/logo.png);
+	background-size: 4.5em 2em;
 }
 .navbar-inverse .navbar-brand {
 	background-image: url(../img/logo.png);
+	background-size: 4.5em 2em;
 }
 
 /* Navbar links */
