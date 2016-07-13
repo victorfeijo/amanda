@@ -182,7 +182,7 @@ if(isset($_POST['submit'])) {
                                     <span class="rotate-box-icon"><i class="fa fa-heart"></i></span>
                                     <div class="rotate-box-info">
                                         <h4>Por que eu faço isso? </h4>
-                                        <p>Eu realmente me encontrei, compreendo a moda como uma grande expressão visual, capaz de comunicar tudo aquilo que nem sempre dizemos. Me vejo ligada a várias áreas, sou proativa e sempre busco aperfeiçoar meu trabalho e conhecer o novo. Em todo o processo de criação e desenvolvimento, considero como parte indispensável o trabalho em equipe, um bom relacionamento traz um bom resultado!Eu realmente me encontrei, compreendo a moda como uma grande expressão visual, capaz de comunicar tudo aquilo que nem sempre dizemos. Me vejo ligada a várias áreas, sou proativa e sempre busco aperfeiçoar meu trabalho e conhecer o novo. Em todo o processo de criação e desenvolvimento, considero como parte indispensável o trabalho em equipe, um bom relacionamento traz um bom resultado!</p>
+                                        <p>Eu realmente me encontrei, compreendo a moda como uma grande expressão visual, capaz de comunicar tudo aquilo que nem sempre dizemos. Me vejo ligada a várias áreas, sou proativa e sempre busco aperfeiçoar meu trabalho e conhecer o novo. Em todo o processo de criação e desenvolvimento, considero como parte indispensável o trabalho em equipe, um bom relacionamento traz um bom resultado!</p>
                                     </div>
                                 </a>
                             </div>
