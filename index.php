@@ -26,7 +26,7 @@ if(isset($_POST['submit'])) {
 		<meta name="author" content="Amanda Alquini Knoll">
 
 		<!-- Mobile Metas -->
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
         
         <!-- Google Fonts  -->
 		<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,500' rel='stylesheet' type='text/css'> <!-- Body font -->
@@ -113,19 +113,19 @@ if(isset($_POST['submit'])) {
 							<div class="item">
 								<h1>Imaginarium, me contrata!</h1>
                                 <div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="https://creativemarket.com/Themetorium" target="_blank" role="button">Veja Mais!</a>
+								<a class="btn btn-blank page-scroll" href="#about-section" role="button">Veja Mais!</a>
 							</div>
 							<div class="item">
 								<h1>Vamos nos conhecer?</h1>
 								<p>Vamos fazer um lindo trabalho juntos!</p>
 								<div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="https://creativemarket.com/Themetorium" target="_blank" role="button">Veja Mais!</a>
+								<a class="btn btn-blank page-scroll" href="#about-section" role="button">Veja Mais!</a>
 							</div>
 							<div class="item">
 								<h1>Sou Amanda,</h1>
 								<p>(amada por todos)</p>
 								<div class="extra-space-l"></div>
-								<a class="btn btn-blank" href="https://creativemarket.com/Themetorium" target="_blank" role="button">Veja Mais!</a>
+								<a class="btn btn-blank page-scroll" href="#about-section" role="button">Veja Mais!</a>
 							</div>
 						</div>
 
@@ -147,7 +147,7 @@ if(isset($_POST['submit'])) {
                             <h2>Sobre</h2>
                             <div class="devider"></div>
 							<p class="subtitle"> quem é esse ser humaninho? </p>
-							<img src="img/perfil.png" alt="title"/>
+							<img src="img/perfil.png" style="width: 95%; max-width: 30em;"/>
                         </div>
                     </div>
                 </div>
