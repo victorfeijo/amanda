@@ -162,7 +162,7 @@ if(isset($_POST['submit'])) {
                                     <span class="rotate-box-icon"><i class="fa fa-users"></i></span>
                                     <div class="rotate-box-info">
                                         <h4>Me, myself & I</h4>
-                                        <p>Meu nome é Amanda Alquini Knoll, tenho 20 anos. Eu amo design, moda e música. Sou movida pela arte. Acredito que o mundo esta em constante mudança, logo precisamos girar com ele e buscar sempre inovar, inovar para fazer a diferença!</p>
+                                        <p>Meu nome é Amanda Alquini Knoll, tenho 20 anos. Eu amo design, moda e música. Sou movida pela arte. Acredito que o mundo está em constante mudança, logo precisamos girar com ele e buscar sempre inovar, inovar para fazer a diferença!</p>
 									</div>
 							   </a>
                             </div>
@@ -182,7 +182,7 @@ if(isset($_POST['submit'])) {
                                     <span class="rotate-box-icon"><i class="fa fa-heart"></i></span>
                                     <div class="rotate-box-info">
                                         <h4>Por que eu faço isso? </h4>
-                                        <p> Eu realmente me encontrei, vejo a moda como uma grande expressão visual, capaz de dizer tudo aquilo que nem sempre dizemos. Acredito que engloba muito arte, design e até mesmo psicologia, e tudo isso me encata. Me vejo ligada a várias áreas. Gosto de criar, produzir, desenhar e me comunicar.</p>
+                                        <p>Eu realmente me encontrei, compreendo a moda como uma grande expressão visual, capaz de comunicar tudo aquilo que nem sempre dizemos. Me vejo ligada a várias áreas, sou proativa e sempre busco aperfeiçoar meu trabalho e conhecer o novo. Em todo o processo de criação e desenvolvimento, considero como parte indispensável o trabalho em equipe, um bom relacionamento traz um bom resultado!Eu realmente me encontrei, compreendo a moda como uma grande expressão visual, capaz de comunicar tudo aquilo que nem sempre dizemos. Me vejo ligada a várias áreas, sou proativa e sempre busco aperfeiçoar meu trabalho e conhecer o novo. Em todo o processo de criação e desenvolvimento, considero como parte indispensável o trabalho em equipe, um bom relacionamento traz um bom resultado!</p>
                                     </div>
                                 </a>
                             </div>
