@@ -22,7 +22,7 @@ if(isset($_POST['submit'])) {
 
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>Me contrata!!</title>
+		<title>Me contrata Imaginarium!!!</title>
 		<meta name="author" content="Amanda Alquini Knoll">
 
 		<!-- Mobile Metas -->
