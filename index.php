@@ -10,7 +10,7 @@ if(isset($_POST['submit'])) {
 	$name=$_POST['name'];
 	$from=$_POST['email'];
 	$subject=$_POST['subject'];
-	$message=$_POST['message'];
+	$message="Nome: $name\nE-Mail: $from\nAssunto: $subject\nMensagem:\n" . $_POST['message'];
 	define('GUSER', 'inovar.ml.sender@gmail.com');
 	define('GPWD', );
 	$to=array("amandaknoll@hotmail.com");
